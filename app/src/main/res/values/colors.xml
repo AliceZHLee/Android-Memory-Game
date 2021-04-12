@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="red">#B00</color>
+    <color name="yellow">#FF0</color>
+    <color name="jd_light">#E5001F</color>
+    <color name="violet">#5F236B</color>
+    <color name="magneta">#BE375F</color>
+    <color name="sandybrown">#ED8554</color>
+    <color name="gold">#F5EB6D</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+</resources>
